@@ -1,0 +1,6 @@
+.idea
+node_modules
+mongodb
+profilePics
+npm-debug.log
+*/config.js
